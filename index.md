@@ -3,11 +3,15 @@ I'm Carlos Pareja and this is my site for my lab reports
 
 *First GitHub Page*
 
+
+
 **Practicing with Bold letter**
 
 # Welcome to my Github Page
 
-## Here I will be adding files thoughout the 2022 Winter Quarter
+## Here is a link to Lab1 for CSE 15L
+
+[Lab Report 1](lab-report-1-week-2.html)
 
 [This is a link to the University I attend](https://ucsd.edu)
 
