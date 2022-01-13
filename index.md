@@ -14,7 +14,7 @@ I'm Carlos Pareja and this is my site for my lab reports
 [Lab Report 1](lab-report-1-week-2.html)
 
 ## Here is another link to my Lab1 for CSE15L
-[Lab Report 1](https://<cpareja3025>.github.io/<cse15l-lab-reports>/lab-report-1-week-2.html)
+[Lab Report 1](https://cpareja3025.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 
 [This is a link to the University I attend](https://ucsd.edu)
