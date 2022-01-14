@@ -6,6 +6,11 @@ In this tutorial, I'm going to be walking through the steps of installing the ID
 
 ## 1) Installing Visual Studio Code
 
+
+![Visual_Studio_Code_setup](https://github.com/cpareja3025/cse15l-lab-reports/blob/main/Installing_VSCode_screenshot.png)
+
+
+
 - List
 - List
 - List
