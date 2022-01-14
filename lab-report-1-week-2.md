@@ -10,6 +10,9 @@ In this tutorial, I'm going to be walking through the steps of installing the ID
 ![lab-report-1-week-2.md](https://github.com/cpareja3025/cse15l-lab-reports/blob/main/Installing_VSCode_screenshot.png)
 
 
+![lab-report-1-week-2.md](https://user-images.githubusercontent.com/86133628/149597476-52ee2a89-f7a1-4457-a870-14c015c08013.png)
+
+
 
 - List
 - List
