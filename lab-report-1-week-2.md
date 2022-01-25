@@ -62,6 +62,8 @@ In this tutorial, I'm going to be walking through the steps of installing the ID
 - In order to make our lives easier and faster, we can run multiple commands at once.
 - Instead of always signing in first then using a command like `ls`. We could do these steps simultaneously
 - We could do this by runnning the command `ssh cs15lwi22@ieng6.ucsd.edu "ls"` where "22" is replaced with your unique username. This command will sign you in and list the files.
+- Finally, in order to fully optimize remote running we could use the up and down keystrokes on our terminal to get commands that we have previously used instead of always typying out the entire command. This saves us lots of time when running a program multiple times.
+- In the example below I used the keystrokes up and down and it only took me 2 seconds to rerun my program rather 10-15 seconds without using the up and down keystrokes.
 
 ![lab-report-1-week-2.md](https://user-images.githubusercontent.com/86133628/149601247-89f92998-878d-41a3-b227-db2b79996910.png)
 
