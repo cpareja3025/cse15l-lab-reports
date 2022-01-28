@@ -1,7 +1,7 @@
-Hello, World!
-I'm Carlos Pareja and this is my site for my lab reports
+# Hello, World!
+# I'm Carlos Pareja and this is my site for my lab reports
 
-*First GitHub Page*
+First GitHub Page*
 
 
 
@@ -13,8 +13,8 @@ I'm Carlos Pareja and this is my site for my lab reports
 
 [Lab Report 1](lab-report-1-week-2.html)
 
-## Here is another link to my Lab1 for CSE15L
-[Lab Report 1](https://cpareja3025.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+## Here is a link to Lab2 for CSE 15L
+[Lab Report 2](lab-report-2-week-4.html)
 
 
 [This is a link to the University I attend](https://ucsd.edu)
