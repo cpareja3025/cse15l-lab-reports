@@ -16,6 +16,9 @@ First GitHub Page*
 ## Here is a link to Lab2 for CSE 15L
 [Lab Report 2](lab-report-2-week-4.html)
 
+## Here is a link to Lab3 for CSE 15L
+[Lab Report 3](lab-report-3-week-6.html)
+
 
 [This is a link to the University I attend](https://ucsd.edu)
 
