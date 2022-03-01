@@ -18,14 +18,20 @@ attaching an image  of my code for
 
 
 
-![Snippet1](My_program_Snippet1.png)
+![Snippet1](images/My_program_Snippet1.png)
 
 
-![Snippet1_code](My_program_Snippet1_Testcode.png)
+![Snippet1_code](images/My_program_Snippet1_Testcode.png)
 <p>&nbsp;</p>
 
 
 ## Week7 Program
+Here, I will be explaining the output for the code that I reviewed in week 7, the link to this GitHub Repo is attached above. Running the code from the week7 group with Snippet1 did not pass the `MarkdownParseTest.java` test. The image below shows both my implementation of Snippet1 in the `MarkdownParseTest.java` file and the ouput is in the terminal below.
+
+![Week7 Snippet1](images/Week7_Snippet1.png)
+
+<p>&nbsp;</p>
+
 ## Bug Fixes
 Although my program for Snippet 1 did not pass the tests that I implemented in `MarkdownParseTest.java`. I believe we can fix this part of the code in less than 10 lines. We could create a new variable named `backticks` and implement an `if` statement where the program is told to ignore the backticks if it comes across backticks either between the open and closed brackets and to continue searching for the closed parantheses if it comes across backticks.
 
@@ -49,11 +55,30 @@ VScode markdown preview. I'm also
 attaching an image  of my code for 
 `MarkdownParseTest.java`. My test did not pass and I'm adding an image of my `MarkdownParseTest.java` code.
 
-![My Snippet2](My_program_Snippet2.png)
-![My Snippet2 code](My_program_Snippet2_Testcode.png)
+![My Snippet2](images/My_program_Snippet2.png)
+![My Snippet2 code](images/My_program_Snippet2_Testcode.png)
 <p>&nbsp;</p>
 
 ## Week7 Program
+Here, I will be 
+explaining the output for 
+the code that I reviewed 
+in week 7, the link to 
+this GitHub Repo is 
+attached above. Running 
+the code from the week7 
+group with Snippet2 did 
+not pass the 
+`MarkdownParseTest.java` 
+test. The image below 
+shows both my 
+implementation of 
+Snippet2 in the 
+`MarkdownParseTest.java` 
+file and the ouput is in 
+the terminal below.
+
+![Week7 Snippet2](images/Week7_Snippet2.png)
 
 ## Bug Fixes
 My `MarkdownParse` file did not pass the `MarkdownParseTest.java` tests that I implemented. I don't believe that we can fix the problems in this Snippet2 file in less than 10 lines of code. We will need to add a an `if` statement in our `while` loop where we will use `&&` statements for different types of nested links. For example, we will use an if statment to tell the program to ignore links or open and closed parentheses inside the brackets `[]` then we will use more if statements for different cases in brackets and escpated brackets.
@@ -81,11 +106,33 @@ attaching an image  of my code for
 `MarkdownParseTest.java`. My test did not 
 pass and I'm adding an image of my 
 `MarkdownParseTest.java` code.
-![My Snippet3](My_program_Snippet3.png)
-![My Snippet3 code](My_program_Snippet3_Testcode.png)
+![My Snippet3](images/My_program_Snippet3.png)
+![My Snippet3 code](images/My_program_Snippet3_Testcode.png)
 <p>&nbsp;</p>
 
 ## Week7 Program
+Here, I will be 
+explaining the output for 
+the code that I reviewed 
+in week 7, the link to 
+this GitHub Repo is 
+attached above. Running 
+the code from the week7 
+group with Snippet3 did 
+not pass the 
+`MarkdownParseTest.java` 
+test. The image below 
+shows both my 
+implementation of 
+Snippet3 in the 
+`MarkdownParseTest.java` 
+file and the ouput is in 
+the terminal below.
+
+![Week7 Snippet3](images/Week7_Snippet3.png)
+
+<p>&nbsp;</p>
+
 ## Bug Fixes
 My program for Snippet3 did not pass. In order to have all of these cases work in `MarkdownParse.java` we will need to fix the code with more than 10 line of code. I believe that this is the cases because these cases in snippet3 are unique and require mutiple if statements in order for our program to successfully pass all tests. 
 
