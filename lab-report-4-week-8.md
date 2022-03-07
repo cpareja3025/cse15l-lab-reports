@@ -97,8 +97,8 @@ preview of
 Snippet3. I added a test 
 method to MarkdownParseTest.java called 
 `Snippet3`. I believed that running the 
-program with Snippet2 would produce a list of 
-`[google.com, google.com, ucsd.edu]`. I have 
+program with Snippet3 would produce a list of 
+`[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`. I have 
 attached an image 
 below as to what I expected from the 
 VScode markdown preview. I'm also 
