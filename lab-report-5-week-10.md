@@ -1,0 +1,2 @@
+# CSE 15L Lab Report #5
+> In this weeks lab report, we're gonna be working with the commonmark-spec tests here from the lab in week9. Here, I'm going to be analyzing two tests from the commonmark-spec where our markdown parser code and the week9 markdown parser code achieved different outputs when running these tests side by side. I'm going to be working on two tests that each contain their respective bugs and I will be explaining how I first found these tests, and explaining the implementation of the tests with each respective markdown parser code.
